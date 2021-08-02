@@ -1,0 +1,14 @@
+{
+	"NSRedirectionsFix": true,
+	"autoDowngrade": true,
+	"honorPB": true,
+	"ignorePeriod": 7,
+	"ignored": {},
+	"incognitoWhitelist": {},
+	"interceptRedirects": true,
+	"knownSecure": {},
+	"maxWait": 0,
+	"proxyCompat": false,
+	"rememberSecureSites": false,
+	"whitelist": {}
+}
