@@ -1,0 +1,101 @@
+{
+  "version": "1.9.2",
+  "date": 1627928844500,
+  "preferences": {
+    "automaticMode": {
+      "active": true,
+      "newTab": "navigation"
+    },
+    "browserActionPopup": true,
+    "closeRedirectorTabs": {
+      "active": true,
+      "delay": 2000,
+      "domains": [
+        "t.co",
+        "outgoing.prod.mozaws.net",
+        "slack-redir.net"
+      ]
+    },
+    "container": {
+      "color": "red",
+      "colorRandom": false,
+      "colorRandomExcluded": [],
+      "icon": "circle",
+      "iconRandom": false,
+      "iconRandomExcluded": [],
+      "namePrefix": "tmp",
+      "numberMode": "reuse",
+      "removal": 900000
+    },
+    "contextMenu": true,
+    "contextMenuBookmarks": true,
+    "cookies": {
+      "domain": {}
+    },
+    "deletesHistory": {
+      "active": true,
+      "automaticMode": "never",
+      "containerAlwaysPerDomain": "never",
+      "containerIsolation": "never",
+      "containerMouseClicks": "never",
+      "containerRemoval": 0,
+      "contextMenu": true,
+      "contextMenuBookmarks": false,
+      "statistics": true
+    },
+    "iconColor": "red-simple",
+    "ignoreRequests": [
+      "getpocket.com",
+      "addons.mozilla.org"
+    ],
+    "isolation": {
+      "domain": [],
+      "global": {
+        "excluded": {},
+        "excludedContainers": [],
+        "mouseClick": {
+          "ctrlleft": {
+            "action": "never",
+            "container": "default"
+          },
+          "left": {
+            "action": "never",
+            "container": "default"
+          },
+          "middle": {
+            "action": "notsamedomainexact",
+            "container": "default"
+          }
+        },
+        "navigation": {
+          "action": "never"
+        }
+      },
+      "mac": {
+        "action": "disabled"
+      },
+      "reactivateDelay": 0
+    },
+    "keyboardShortcuts": {
+      "AltC": false,
+      "AltI": false,
+      "AltN": true,
+      "AltO": true,
+      "AltP": true,
+      "AltShiftC": false,
+      "AltX": true
+    },
+    "notifications": false,
+    "pageAction": true,
+    "replaceTabs": false,
+    "scripts": {
+      "domain": {},
+      "active": false
+    },
+    "statistics": true,
+    "ui": {
+      "expandPreferences": true,
+      "popupDefaultTab": "actions"
+    }
+  }
+}
