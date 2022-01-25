@@ -18,5 +18,4 @@ Currently the collection contains settings for the following tools:
 * [Redirector](https://raw.githubusercontent.com/m-rey/settings/main/Redirector.json) ([AMO](https://addons.mozilla.org/en-US/firefox/addon/redirector/))
 * [Temporary Containers](https://raw.githubusercontent.com/m-rey/settings/main/temporary_containers_preferences.json) ([AMO](https://addons.mozilla.org/en-US/firefox/addon/temporary-containers/))
 * [LocalCDN](https://raw.githubusercontent.com/m-rey/settings/main/localcdn_backup.txt) ([AMO](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/))
-* [HTTPZ](https://raw.githubusercontent.com/m-rey/settings/main/HTTPZ_backup.json) ([AMO](https://addons.mozilla.org/en-US/firefox/addon/httpz/))
 * [Cookie AutoDelete](https://raw.githubusercontent.com/m-rey/settings/main/CAD_CoreSettings.json) ([AMO](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/))
